@@ -1,5 +1,7 @@
 # React In-class Exam, November 2024
 
+Daniel O'Brien, 20101948
+
 ## 1. Setup instructions
 
 This repository contains the starting code for a lab-based React assessment. 
